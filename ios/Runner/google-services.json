@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678155496259",
+    "firebase_url": "https://entitledarts-auth-default-rtdb.firebaseio.com",
+    "project_id": "entitledarts-auth",
+    "storage_bucket": "entitledarts-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678155496259:android:8a3e5a2a9bea50cb4f1df6",
+        "android_client_info": {
+          "package_name": "com.entitledarts.dumy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678155496259-tfo1hc3fla1dnlp0tgb1d234f4g01mhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzJP-S9InLpPmwgyOtWtqorAnz70mOW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678155496259-tfo1hc3fla1dnlp0tgb1d234f4g01mhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678155496259-8844alscoo1m317oipc58gsuovr81ci7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.profileManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
